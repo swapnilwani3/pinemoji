@@ -1,6 +1,8 @@
-# pinemoji
+# Pinemoji
 
-A new Flutter project.
+Social responsibility project for doctors in COVID-19.
+
+<img src="https://github.com/cagriaydin/pinemoji/raw/master/screenshot.png” width="250">
 
 ## Getting Started
 
