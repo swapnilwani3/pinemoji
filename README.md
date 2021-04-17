@@ -6,7 +6,7 @@ Social responsibility project for doctors in COVID-19.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter
 
 A few resources to get you started if this is your first Flutter project:
 
